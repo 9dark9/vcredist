@@ -5,6 +5,13 @@
 <details><summary>2026</summary>
 
 
+14.50.35719.0
+```
+https://download.visualstudio.microsoft.com/download/pr/6f02464a-5e9b-486d-a506-c99a17db9a83/8995548DFFFCDE7C49987029C764355612BA6850EE09A7B6F0FDDC85BDC5C280/VC_redist.x64.exe
+https://download.visualstudio.microsoft.com/download/pr/b90dba85-6329-492c-b409-99528eee62ee/E7267C1BDF9237C0B4A28CF027C382B97AA909934F84F1C92D3FB9F04173B33E/VC_redist.x86.exe
+https://download.visualstudio.microsoft.com/download/pr/b90dba85-6329-492c-b409-99528eee62ee/FCDA7B24413F170BD456052F08AE49FB60AC1638F083AAB7A35AFEB957AEB1D6/VC_redist.arm64.exe
+```
+
 14.50.35710.0
 ```
 https://download.visualstudio.microsoft.com/download/pr/3b777a0f-1066-455c-bd73-80da97ec7f88/CE1A6F9F3EB3F9581A100BE793AD4D7D043632E1776FB40CB654C59504776151/VC_redist.x64.exe
