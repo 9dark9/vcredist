@@ -965,18 +965,18 @@ http://download.microsoft.com/download/0/5/2/05271FE6-CBA8-4A4D-9E95-00CFC60C163
 http://download.microsoft.com/download/6/2/4/62491095-34D6-4FB0-BB14-22293D193397/VC_redist.x64.exe
 http://download.microsoft.com/download/5/B/1/5B188FBD-9CCA-46D2-AE4C-BC50DF7E8828/VC_redist.x86.exe
 ```
-</details>
-
-______________________________
-
-<details><summary>2015</summary>
-
 
 14.0.24406.0
 ```
 http://download.microsoft.com/download/e/7/8/e7842dea-ed59-4703-9a9e-5c05e89686f5/vc_redist.x64.exe
 http://download.microsoft.com/download/c/5/0/c50ddaed-1286-4a0f-ba29-63ea2d6b2bc2/vc_redist.x86.exe
 ```
+</details>
+
+______________________________
+
+<details><summary>2015</summary>
+
 
 14.0.24215.1
 ```

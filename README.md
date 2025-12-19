@@ -230,5 +230,6 @@ https://www.tinyplease.com/vcredist
 https://kutt.it/vcpp  
 https://www.tinyplease.com/vcpp
 - All releases:  
+https://gitlab.com/stdout12/vcredist/-/releases  
 https://github.com/abbodi1406/vcredist/releases  
 https://tiny.cc/vcredist
