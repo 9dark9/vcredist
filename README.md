@@ -68,7 +68,7 @@ this repack will install KB3118401 if UCRT is not available.
 
 Make sure to use the Custom AIO v35 packs for better features and switches.
 
-## INF-based overrides (v103 and later):
+## INF-based overrides (v104 and later):
 
 - VC++ Redists 2005 ~ 2026 Uninstall entries are unified and simplfied using INF-based uninstaller entry
 
