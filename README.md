@@ -68,6 +68,23 @@ this repack will install KB3118401 if UCRT is not available.
 
 Make sure to use the Custom AIO v35 packs for better features and switches.
 
+## INF-based overrides (v103 and later):
+
+- VC++ Redists 2005 ~ 2026 Uninstall entries are unified and simplfied using INF-based uninstaller entry
+
+- These simple INF overrides act as alternative entry for each version/arch of the VC++ runtimes 
+
+- This gives a better listings for the Runtimes, with organized and aligned naming scheme
+
+- For installation, the INF override register itself, and hide the associated Runtimes entries
+
+- For uninstallation, the INF override uninstall the associated Runtimes, and unregister itself
+
+- To restore the old behavior and only show the original Runtimes entries:
+
+run the repack with `/aiN` switch  
+or extract and run `ARP.cmd` and choose **2. Show**
+
 ## Credits:
 
 - [@ricktendo64](https://forums.mydigitallife.net/members/28038/) / MDL forums - repacks.net - wincert.net  
@@ -148,6 +165,9 @@ Debug mode, create VCpp_debug.log without installing/uninstalling any package.
 
 /aiP  
 Manual Hide or Show Runtimes entries in Add/Remove Programs panel.
+
+/aiN  
+Show original Runtimes entries and hide INF override entries.
 
 /ai1  
 Update mode. Only already installed packages are updated.
@@ -233,3 +253,6 @@ https://www.tinyplease.com/vcpp
 https://gitlab.com/stdout12/vcredist/-/releases  
 https://github.com/abbodi1406/vcredist/releases  
 https://tiny.cc/vcredist
+
+---
+[![ko-fi.com](https://img.shields.io/badge/Ko--fi-Buy_Me_a_Coffee-F16000)](https://ko-fi.com/abbodi1406)
